@@ -1,3 +1,43 @@
-p {
-    font-size: 16px;
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    font-family: "Arial Narrow", sans-serif;
+}
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+a:link {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:visited {
+    color: inherit;
+}
+
+a:hover {
+    font-weight: bold;
+    color: rgba(140,122,174,0.90);
+    -wekbit-transition: color 1.5s ease;
+    -moz-transition: color 1.5s ease;
+    -o-transition: color 1.5s ease;
+    -transition: color 1.5s ease;
+}
+
+header {
+    border-radius: 7px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 999998;
+    height: 60px;
+    width: 100%;
+    background-color: #535f6b;
+    margin-bottom: 30px;
 }
