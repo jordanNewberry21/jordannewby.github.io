@@ -61,7 +61,7 @@ a:after {
 }
 
 .header {
-  background: #001f3f;
+  background: #2c3e50;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
@@ -83,12 +83,12 @@ a:after {
 .header h1 {
   font-size: 80px;
   color: white;
-  background: #001f3f;
+  background: #2c3e50;
 }
 
 .header h3 {
   font-size: 20px;
-  color: #001f3f;
+  color: white;
 }
 
 .header h3 a {
