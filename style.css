@@ -1,7 +1,7 @@
 body {
   background-color: #f2f2f2;
-  font-family: "Lato";
-  font-weight: 300;
+  font-family: "Montserrat";
+  font-weight: 400;
   font-size: 16px;
   color: #555;
 
@@ -10,8 +10,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway";
-  font-weight: 300;
+  font-family: "Notable";
+  font-weight: 400;
   color: #333;
 }
 
@@ -96,7 +96,7 @@ a:after {
 }
 
 .about {
-  background: #ffffff;
+  background: #DDDDDD;
   padding-top: 60px;
   padding-bottom: 60px;
   color: #2c3e50;
